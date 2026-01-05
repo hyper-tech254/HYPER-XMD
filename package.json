@@ -42,7 +42,7 @@
     "fs": "^0.0.1-security",
     "fs-extra": "^11.1.0",
     "jimp": "*",
-    "sharp": "*",
+    "sharp": "0.32.6",
     "hyper-dls": "*",
     "mime-types": "^2.1.35",
     "moment-timezone": "^0.5.45",
